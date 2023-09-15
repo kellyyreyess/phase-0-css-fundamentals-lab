@@ -2,4 +2,30 @@ body {
   width: 100%;
   height: 100%;
   margin: 0;
+  text-align: center;
+}
+
+ 
+nav a { 
+  background-color: grey;
+  word-spacing: 10px; 
+}   
+
+figure {
+  font-size: smaller;
+  
+}
+
+#featured-property p {
+  width: 800px;
+  margin: auto;
+}
+
+#details div {
+  text-align: horizontal;
+  float: left;
+  width: 25%;
+  background-color: red;
+  
+
 }
